@@ -2,51 +2,61 @@
   "WG-EX-FD-0001": {
     "name": "Biraj Goswami",
     "designation": "Founder & CEO",
+    "email": "wingglexbiraj@gmail.com",
     "org": "Winggle Valley LLP"
   },
   "WG-EX-COO-0002": {
     "name": "Debashree Kashyap",
     "designation": "Chief Operating Officer (COO)",
+    "email": "wingglexdebashree@gmail.com",
     "org": "Winggle Valley LLP"
   },
   "WG-EX-CTO-0003": {
     "name": "Abhijit Das",
     "designation": "Chief Technology Officer (CTO)",
+    "email": "wingglexabhijit@gmail.com",
     "org": "Winggle Valley LLP"
   },
   "WG-EX-CBO-0004": {
     "name": "Mriganka Das",
     "designation": "Chief Business Officer (CBO)",
+    "email": "wingglexmriganka@gmail.com",
     "org": "Winggle Valley LLP"
   },
   "WG-EX-CDO-0005": {
     "name": "Jhahid Ahmed",
     "designation": "Chief Data Officer (CDO)",
+    "email": "wingglexjhahid@gmail.com",
     "org": "Winggle Valley LLP"
   },
   "WG-EX-HEA-0006": {
     "name": "Pallab J. Rajkhowa",
-    "designation": "Head of Executive Associate",
+    "designation": "Head Executive Associate",
+    "email": "wingglexpallab@gmail.com",
     "org": "Winggle Valley LLP"
   },
   "WG-EX-EA-0007": {
     "name": "Didar Barbhuiya",
     "designation": "Executive Associate",
+    "email": "wingglexdidar@gmail.com",
     "org": "Winggle Valley LLP"
   },
   "WG-CD-MDH-0008": {
     "name": "Dibakar Rajkumar",
     "designation": "Media & Design Head",
+    "email": "wingglexdibakar@gmail.com",
     "org": "Winggle Valley LLP"
   },
   "WG-EX-EA-0009": {
     "name": "Saurav Roy",
     "designation": "Executive Associate",
+    "email": "wingglexsaurav@gmail.com",
     "org": "Winggle Valley LLP"
   },
   "WG-EX-EA-0010": {
     "name": "Amlan Goswami",
     "designation": "Executive Associate",
+    "email": "wingglexamlan@gmail.com",
     "org": "Winggle Valley LLP"
   }
 }
