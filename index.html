@@ -251,6 +251,11 @@ Authenticating Identity
 </div>
 
 <div class="row">
+<span class="label">Email :</span>
+<span class="value" id="email">Loading...</span>
+</div>
+  
+<div class="row">
 <span class="label">Organization :</span>
 <span class="value" id="org">Loading...</span>
 </div>
@@ -323,6 +328,7 @@ if(employees[id]){
 document.getElementById("name").innerText = employees[id].name;
 document.getElementById("designation").innerText = employees[id].designation;
 document.getElementById("empid").innerText = id;
+  document.getElementById("email").innerText = employees[id].email;
 document.getElementById("org").innerText = employees[id].org;
 
 }else{
